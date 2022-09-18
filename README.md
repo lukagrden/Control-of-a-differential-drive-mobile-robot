@@ -1,6 +1,5 @@
 # Control-of-a-differential-drive-mobile-robot
 Nadogradnja i modifikacija mobilnog robota na diferencijalni pogon Pioneer 2DX
-
 Upgrade and modification of differential drive mobile robot Pioneer 2DX
 
 
