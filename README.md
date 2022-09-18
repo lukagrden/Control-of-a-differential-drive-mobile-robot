@@ -1,4 +1,5 @@
-# Control-of-a-differential-drive-mobile-robot
+# Upravljanjem mobilnim robotom na diferencijalni pogon
+# Control of a differential drive mobile robot
 
 
 
