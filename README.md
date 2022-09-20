@@ -7,6 +7,8 @@ Završni rad opisuje modifikaciju mobilnog robota Pioneer 2DX koji koristi difer
 Sva dokumentacija koja se tiče upravljačkog programa s modoficiranim knjižnicama, nalazi se u završnom radu (Završni rad_Luka Grden.pdf). Uz to na repozitoriju su dodane
 step. datoteke modeliranih dijelovima zajedno s upravljačkim kodom mobilnog robota.
 
+![image](https://user-images.githubusercontent.com/38221332/191283752-9b0b1979-6e6c-41b1-b66d-9a9960cacd47.png) 
+
 # Control of a differential drive mobile robot - final paper
 
 ## SUMMARY
@@ -15,5 +17,5 @@ The final paper describes the modification of the Pioneer 2DX mobile robot that 
 
 All documentation regarding control algorithm with modified libaries is included in the final paper (Završni rad_Luka Grden.pdf). In addition, step. files of modeled parts together with the control code of the mobile robot is added to the repository.
 
-![image](https://user-images.githubusercontent.com/38221332/191283752-9b0b1979-6e6c-41b1-b66d-9a9960cacd47.png) ![image](https://user-images.githubusercontent.com/38221332/191283878-94891de8-01d4-44f4-9aaf-74372840a42a.png)
+![image](https://user-images.githubusercontent.com/38221332/191283878-94891de8-01d4-44f4-9aaf-74372840a42a.png)
 
