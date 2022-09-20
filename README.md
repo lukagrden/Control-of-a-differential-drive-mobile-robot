@@ -1,4 +1,4 @@
-# Upravljanjem mobilnim robotom na diferencijalni pogon
+# Upravljanjem mobilnim robotom na diferencijalni pogon - završni rad
 
 ## SAŽETAK
 
@@ -7,9 +7,11 @@ Završni rad opisuje modifikaciju mobilnog robota Pioneer 2DX koji koristi difer
 Sva dokumentacija koja se tiče upravljačkog programa s modoficiranim knjižnicama, zajedno sa step. datotekama modeliranih dijelovima nalazi se u Završnom radu (Završni rad_Luka Grden.pdf)
 
 
-# Control of a differential drive mobile robot
+# Control of a differential drive mobile robot - final paper
 
 ## SUMMARY
+
+The final paper describes the modification of the Pioneer 2DX mobile robot that uses a differential drive system. The robot was upgraded with new control and drive components, along with which a low-level control algorithm was created with the possibility of two-way communication with  a high-level controller. As part of the task, an electric motor rotation speed regulator was designed, whose performance was tested by responses to different input signals. Furthermore, by applying the equations of direct kinematics, the low-level control system calculates the reference speed of the wheels in relation to the desired translational and rotational speeds, while the equations of direct kinematics are then used to estimate the real speeds of the robot through the motor encoder. Serial communication with the high-level controller is performed with the robot operating system (Robot Operating System - ROS) using the "rosserial" package. In addition, the work includes constructing and manufacturing of adapters for new drive motors using 3D printing technology. Along with that, with  given connection scheme, the prototype circuit board is crated.
 
 All documentation regarding control algorithm with modified libaries, together with step. files of constructed parts
 
